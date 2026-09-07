@@ -1,5 +1,5 @@
 async function fetchimage(){
-    const apikey = ""
+    const apikey = "" // PUT YOUR API KEY HERE
 const channel = document.getElementById('input').value
 
 
